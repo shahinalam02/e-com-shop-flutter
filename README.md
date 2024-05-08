@@ -15,6 +15,7 @@ Data Models: Utilizes data models to represent product information.
 Themes: Supports both light and dark themes for user preference.
 
 #Screenshots 
+
 file:///home/blackpanda/Pictures/Screenshots/Screenshot%20from%202024-05-08%2012-37-14.png
 file:///home/blackpanda/Pictures/Screenshots/Screenshot%20from%202024-05-08%2012-38-02.png
 
