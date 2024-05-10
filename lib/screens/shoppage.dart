@@ -28,7 +28,7 @@ class ShopPage extends StatelessWidget {
                 thememodel.toggleTheme();
               },
               icon: Icon(
-                  thememodel.isDarkMode ? Icons.light_mode : Icons.dark_mode),
+                  thememodel.isDarkMode ? Icons.dark_mode : Icons.light_mode),
             )
           ],
         ),
